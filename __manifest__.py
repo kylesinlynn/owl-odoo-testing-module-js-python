@@ -13,9 +13,9 @@
     'assets': {
         'web.assets_backend': [
             'owl_odoo_testing/static/src/js/components/PartnerOrderSummary.js',
+        ],
+        'qweb': [
+            'owl_odoo_testing/static/src/js/components/PartnerOrderSummary.xml',
         ]
-    },
-    'qweb': [
-        'owl_odoo_testing/static/src/js/components/PartnerOrderSummary.xml',
-    ]
+    }
 }
