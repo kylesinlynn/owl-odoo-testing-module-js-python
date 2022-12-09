@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<template xml:space="preserve">
+<templates xml:space="preserve">
     <t t-name="owl_odoo_testing.PartnerOrderSummary" owl="1">
         <div>My cool new widget</div>
     </t>
-</template>
+</templates>
