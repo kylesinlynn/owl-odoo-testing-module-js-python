@@ -7,5 +7,10 @@
     'version': '0.0.1',
     'depends': ['base'],
     'demo': [],
-    'data': []
+    'data': [],
+    'assets': {
+        'web.assets_backend': [
+            'owl_odoo_testing/static/src/js/components/PartnerOrderSummary.js',
+        ]
+    }
 }
