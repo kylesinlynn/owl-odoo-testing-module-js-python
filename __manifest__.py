@@ -5,7 +5,7 @@
     'author': 'Kyle Sin Lynn',
     'website': 'http://kylesinlynn.ml',
     'version': '0.0.1',
-    'depends': ['base'],
+    'depends': ['sale', 'sale_management'],
     'demo': [],
     'data': [],
     'assets': {
