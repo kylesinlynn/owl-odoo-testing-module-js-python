@@ -7,7 +7,9 @@
     'version': '0.0.1',
     'depends': ['sale', 'sale_management'],
     'demo': [],
-    'data': [],
+    'data': [
+        'views.xml'
+    ],
     'assets': {
         'web.assets_backend': [
             'owl_odoo_testing/static/src/js/components/PartnerOrderSummary.js',
